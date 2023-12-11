@@ -27,3 +27,6 @@ embedded algorithmic ads
 
 eating animals
   cruelty
+
+catholic style confessions for undergae
+  madness
