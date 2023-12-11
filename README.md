@@ -47,3 +47,6 @@ inverted letters on cars, sirens, flashing lights etc.
 
 "compulsory" "schooling" 
   jails for the underage for "commiting" "crime" of being born
+
+bdsm paedophilia aka corporal "punishment" for the underage 
+  crime
