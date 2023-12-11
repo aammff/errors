@@ -50,3 +50,6 @@ inverted letters on cars, sirens, flashing lights etc.
 
 bdsm paedophilia aka corporal "punishment" for the underage 
   crime
+
+taxation
+  aka "legalized" theft
