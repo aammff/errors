@@ -1,0 +1,2 @@
+# errors
+errare humanum est
