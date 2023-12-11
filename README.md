@@ -2,7 +2,7 @@
 errare humanum est
 
 garbage collected programming languages
-  code bloat
+  nomen omen code bloat
 
 non free "software"
   not a software but a puzzle or a novelty item
@@ -16,9 +16,9 @@ interest
 money
 
 UN policy on "drugs"
-  criminal
+  crime against humanity
 
-etanol
+ethanol
   poison, should be marked as not for human consumption and be available in hardware stores not food stores
 
 moving images type ads, interrupting movies with ads etc.
@@ -31,7 +31,7 @@ eating animals
 catholic style confessions for underage
   madness
 
-wars
+judicial murder aka capital "punishment", wars
   madness
 
 no woman at moon - apollo
