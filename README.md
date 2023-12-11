@@ -6,14 +6,13 @@ garbage collected programming languages
 
 non free "software", non free "hardware"
   not a software but a puzzle or a novelty item
-  "intellectual property"
-  "patents"
-
+"intellectual property" "patents"
+  functional deprivation
 
 fractional reserve banking
   scam
-interest
-money
+interest usury
+money idiocy
 
 UN policy on "drugs"
   crime against humanity
@@ -31,7 +30,7 @@ eating animals
 catholic style confessions for underage
   madness
 
-judicial murder aka capital "punishment", wars
+judicial murder aka capital "punishment", wars, genital mutilation
   madness
 
 no woman at moon - apollo
