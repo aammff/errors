@@ -12,7 +12,8 @@ non free "software"
 
 fractional reserve banking
   scam
-interests
+interest
+money
 
 UN policy on "drugs"
   criminal
@@ -21,5 +22,8 @@ etanol
   poison, should be marked as not for human consumption and be available in hardware stores not food stores
 
 moving images type ads, interrupting movies with ads etc.
-embedded algorythmic ads
+embedded algorithmic ads
   mind poison
+
+eating animals
+  cruelty
