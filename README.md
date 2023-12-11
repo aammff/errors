@@ -27,7 +27,7 @@ embedded algorithmic ads
 eating animals
   cruelty
 
-catholic style confessions for underage
+catholic style confessions for the underage
   madness
 
 judicial murder aka capital "punishment", wars, genital mutilation
@@ -35,3 +35,15 @@ judicial murder aka capital "punishment", wars, genital mutilation
 
 no woman at moon - apollo
   fix - artemis
+
+"compulsory" "medical" "procedures" including "vaccination"
+  shame on "doctors"
+
+dentistry, "food"
+  get lost
+
+inverted letters on cars, sirens, flashing lights etc.
+  f.y.already
+
+"compulsory" "schooling" 
+  jails for the underage for "commiting" "crime" of being born
