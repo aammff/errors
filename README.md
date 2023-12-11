@@ -7,7 +7,7 @@ garbage collected programming languages
 non free "software", non free "hardware"
   not a software but a puzzle or a novelty item
 "intellectual property" "patents"
-  functional deprivation
+  logic bomb
 
 fractional reserve banking
   scam
