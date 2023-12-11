@@ -21,4 +21,5 @@ etanol
   poison, should be marked as not for human consumption and be available in hardware stores not food stores
 
 moving images type ads, interrupting movies with ads etc.
+embedded algorythmic ads
   mind poison
