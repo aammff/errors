@@ -177,3 +177,5 @@ https://pza.org.pl/
 https://pl.wikipedia.org/wiki/Sport
 https://en.wikipedia.org/wiki/Sport
 https://en.wikipedia.org/wiki/Spiral
+https://en.wikipedia.org/wiki/Vomiting
+https://pl.wikipedia.org/wiki/Wymioty
