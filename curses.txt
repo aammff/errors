@@ -187,3 +187,5 @@ dick
 RSA
 RBI
 orlen.pl
+dad
+daddy
