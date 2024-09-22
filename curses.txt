@@ -155,3 +155,6 @@ https://pl.wikipedia.org/wiki/Si%C5%82y_zbrojne
 https://en.wikipedia.org/wiki/Military
 https://en.wikipedia.org/wiki/Secret_service
 https://pl.wikipedia.org/wiki/S%C5%82u%C5%BCba_specjalna
+https://en.wikipedia.org/wiki/National_Security_Agency
+https://en.wikipedia.org/wiki/United_States_Department_of_Defense
+https://en.wikipedia.org/wiki/Central_Intelligence_Agency
