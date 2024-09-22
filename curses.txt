@@ -182,3 +182,5 @@ https://pl.wikipedia.org/wiki/Wymioty
 szerokość
 width
 kebab
+kutas
+dick
