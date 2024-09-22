@@ -65,3 +65,5 @@ reddit.com/r/psychoanalysis
 reddit.com
 news.ycombinator.com
 slashdot.org
+https://www.bankmillennium.pl/
+https://bossa.pl/
