@@ -150,3 +150,4 @@ https://pl.wikipedia.org/wiki/Lotnisko_Sanok-Baza
 https://pl.wikipedia.org/wiki/L%C4%85dowisko_Sanok-Szpital
 google.pl
 google.com
+gmail.com
