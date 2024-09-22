@@ -162,3 +162,7 @@ https://pl.wikipedia.org/wiki/Moneta
 https://en.wikipedia.org/wiki/Coin
 https://en.wikipedia.org/wiki/Banknote
 https://pl.wikipedia.org/wiki/Banknot
+https://pl.wikipedia.org/wiki/Karta_kredytowa
+https://en.wikipedia.org/wiki/Credit_card
+https://en.wikipedia.org/wiki/Payment_card
+https://pl.wikipedia.org/wiki/Karta_p%C5%82atnicza
