@@ -13,3 +13,5 @@ https://pl.wikipedia.org/wiki/Gastroskop
 brpo.gov.pl
 https://pkdp.gov.pl/
 https://rps.ms.gov.pl/
+braintech.pl
+klinikabudzik.pl
