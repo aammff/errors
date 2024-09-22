@@ -126,3 +126,7 @@ https://pl.wikipedia.org/wiki/Psychiatria
 https://en.wikipedia.org/wiki/Alcohol_(drug)
 https://pl.wikipedia.org/wiki/Nap%C3%B3j_alkoholowy
 https://pl.wikipedia.org/wiki/Etanol
+https://pl.wikipedia.org/wiki/Urologia
+https://pl.wikipedia.org/wiki/Seksuologia
+https://pl.wikipedia.org/wiki/Ginekologia
+https://pl.wikipedia.org/wiki/Andrologia
