@@ -105,3 +105,4 @@ https://www.decathlon.pl/
 allegro.pl
 olx.pl
 https://pja.edu.pl/
+sp3.sanok.pl
