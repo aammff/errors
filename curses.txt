@@ -76,3 +76,4 @@ https://www.carrefour.pl/
 lidl.pl
 https://molpolska.pl/
 zabka.pl
+https://pl.wikipedia.org/wiki/COVID-19
