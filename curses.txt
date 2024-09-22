@@ -74,3 +74,5 @@ https://bip.powiat-sanok.pl/strona-3356-powiatowy_zespol_ds_orzekania_o.html
 kaufland.pl
 https://www.carrefour.pl/
 lidl.pl
+https://molpolska.pl/
+zabka.pl
