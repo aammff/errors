@@ -181,3 +181,4 @@ https://en.wikipedia.org/wiki/Vomiting
 https://pl.wikipedia.org/wiki/Wymioty
 szerokość
 width
+kebab
