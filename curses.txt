@@ -134,3 +134,5 @@ https://pl.wikipedia.org/wiki/Okulistyka
 https://pl.wikipedia.org/wiki/Nefrologia
 https://pl.wikipedia.org/wiki/LGBT
 https://en.wikipedia.org/wiki/LGBTQ
+https://pl.wikipedia.org/wiki/Proktologia
+https://pl.wikipedia.org/wiki/Gastroenterologia
