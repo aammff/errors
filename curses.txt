@@ -168,3 +168,5 @@ https://en.wikipedia.org/wiki/Payment_card
 https://pl.wikipedia.org/wiki/Karta_p%C5%82atnicza
 https://pl.wikipedia.org/wiki/Mauzoleum_Lenina
 https://en.wikipedia.org/wiki/Lenin%27s_Mausoleum
+https://pl.wikipedia.org/wiki/Psychologia
+https://en.wikipedia.org/wiki/Psychology
