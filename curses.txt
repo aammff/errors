@@ -93,3 +93,7 @@ https://pl.wikipedia.org/wiki/Toyota
 https://pl.wikipedia.org/wiki/Mercedes-Benz
 https://pl.wikipedia.org/wiki/Citro%C3%ABn
 https://lodz.pl/
+https://pl.wikipedia.org/wiki/Wk%C5%82adka_domaciczna
+https://pl.wikipedia.org/wiki/Test_ci%C4%85%C5%BCowy
+https://pl.wikipedia.org/wiki/Prezerwatywa
+https://pl.wikipedia.org/wiki/Atrapa_pr%C4%85cia
