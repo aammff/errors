@@ -123,3 +123,6 @@ https://www.nvidia.com/
 https://www.facebook.com/people/Pod%C5%82oga-to-Psytrance/100064054299656/
 https://en.wikipedia.org/wiki/Psychiatry
 https://pl.wikipedia.org/wiki/Psychiatria
+https://en.wikipedia.org/wiki/Alcohol_(drug)
+https://pl.wikipedia.org/wiki/Nap%C3%B3j_alkoholowy
+https://pl.wikipedia.org/wiki/Etanol
