@@ -67,3 +67,4 @@ news.ycombinator.com
 slashdot.org
 https://www.bankmillennium.pl/
 https://bossa.pl/
+https://pinb.sanok.pl/
