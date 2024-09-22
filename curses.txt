@@ -104,3 +104,4 @@ ikea.pl
 https://www.decathlon.pl/
 allegro.pl
 olx.pl
+https://pja.edu.pl/
