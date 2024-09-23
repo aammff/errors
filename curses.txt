@@ -196,3 +196,4 @@ jam
 Jam
 J.A.M
 j.a.m
+https://en.wikipedia.org/wiki/Haier
