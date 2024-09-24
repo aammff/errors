@@ -214,3 +214,4 @@ https://www.gov.pl/web/wsse-warszawa
 http://wsse.waw.pl/
 ABW
 BWA
+https://en.wikipedia.org/wiki/Nobel_Prize
